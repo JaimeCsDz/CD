@@ -1,1 +1,0 @@
-print("Hola CD/CI prueba pipeline")
