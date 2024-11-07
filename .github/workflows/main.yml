@@ -3,7 +3,7 @@ name: Preproduction Pipeline
 on:
   push:
     branches:
-      - main  # Ejecuta este pipeline en cada cambio en la rama principal
+      - main
 
 jobs:
   build:
